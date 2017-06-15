@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CadastroFuncionarios.MainPage"
+              Title="Cadastro De Funcionarios">
+  <ScrollView>
+    <StackLayout Padding="10">
+      <Label Text="Funcionarios" Font="24" HorizontalOptions="Center" TextColor="White"/>
+      <Entry x:Name ="nomeEntry" Placeholder="Nome" TextColor="Red" />
+      <Entry x:Name ="sobrenomeEntry" Placeholder="SobreNome" TextColor="Red"/>
+      <Entry x:Name="SalarioEntry" Placeholder="Salario" TextColor="Red" Keyboard="Numeric" />
+      
+      <StackLayout Orientation="Horizontal">
+        <Label Text="Data Contrato:" VerticalOptions="Center" TextColor="White"/>
+        <DatePicker x:Name ="dtpDataContrato"/>
+        <Label Text="Ativo" VerticalOptions="Center" TextColor="White"/>
+        <Switch x:Name="ativoSwitch" IsToggled="True" HorizontalOptions="EndAndExpand"/>
+      </StackLayout>
+      
+      <Button x:Name="btNovo" Text="Cadastrar" HorizontalOptions="Center" BackgroundColor="Lime" TextColor="Black"/>
+      <ListView x:Name="lvDados" RowHeight="65" />
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

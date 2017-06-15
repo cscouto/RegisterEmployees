@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CadastroFuncionarios.EditPage">
+  
+    <StackLayout Padding="10" Spacing="10">
+      <Label Text="Editar Funcionario" Font="24" HorizontalOptions="Center" VerticalOptions="Center" FontAttributes="Bold" TextColor="White"/>
+      <Entry x:Name ="nomeEntry" Placeholder="Nome" TextColor="Red" />
+      <Entry x:Name ="sobrenomeEntry" Placeholder="SobreNome" TextColor="Red"/>
+      <Entry x:Name="SalarioEntry" Placeholder="Salario" TextColor="Red" Keyboard="Numeric" />
+      <StackLayout Orientation="Horizontal">
+        <Label Text="Data Contrato:" VerticalOptions="Center" TextColor="White"/>
+        <DatePicker x:Name ="dtpDataContrato"/>
+        <Label Text="Ativo" VerticalOptions="Center" TextColor="White" HorizontalOptions="FillAndExpand"/>
+        <Switch x:Name="ativoSwitch" VerticalOptions="Center"  HorizontalOptions="End" IsToggled="True"/>
+      </StackLayout>
+      <StackLayout Orientation="Horizontal">
+        <Button x:Name="btAtualizar" Text="Atualizar" BackgroundColor="Lime"/>
+        <Button x:Name="btApagar" Text="Apagar" BackgroundColor="Lime"/>
+      </StackLayout>
+    </StackLayout>
+</ContentPage>

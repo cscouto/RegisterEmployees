@@ -1,0 +1,2 @@
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios.Windows\CadastroFuncionarios.Windows.csproj;neutral
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios.csproj;neutral

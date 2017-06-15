@@ -1,0 +1,2 @@
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios.WinPhone\CadastroFuncionarios.WinPhone.csproj;x86
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios.csproj;neutral

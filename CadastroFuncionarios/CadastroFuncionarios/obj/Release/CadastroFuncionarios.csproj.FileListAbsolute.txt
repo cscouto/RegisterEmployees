@@ -1,0 +1,16 @@
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\bin\Release\CadastroFuncionarios.dll
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\bin\Release\CadastroFuncionarios.pdb
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\bin\Release\SQLite.Net.dll
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\obj\Release\CadastroFuncionarios.MainPage.xaml.g.cs
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\obj\Release\CadastroFuncionarios.EditPage.xaml.g.cs
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\obj\Release\CadastroFuncionarios.dll
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\obj\Release\CadastroFuncionarios.pdb
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\obj\Release\CadastroFuncionarios.dll.mdb
+C:\Users\Tiago\documents\visual studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\bin\Release\CadastroFuncionarios.dll.mdb
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\obj\Release\CadastroFuncionarios.dll.mdb
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\CadastroFuncionarios\CadastroFuncionarios\CadastroFuncionarios\bin\Release\CadastroFuncionarios.dll.mdb
